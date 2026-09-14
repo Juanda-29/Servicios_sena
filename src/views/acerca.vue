@@ -63,7 +63,7 @@ const desarrolladora = {
 </script>
 
 <style scoped>
-.acerca-page {
+.acerca-page { 
   max-width: 1000px;
   margin: 0 auto;
 }
