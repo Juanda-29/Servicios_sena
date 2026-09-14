@@ -15,17 +15,13 @@
           Sobre el centro
         </div>
         <p class="text-body1">
-          El Centro Agroturístico SENA forma técnicos y tecnólogos en áreas
-          agropecuarias, ambientales y de turismo, combinando aulas, unidades
-          productivas y prácticas de campo. A través de esta aplicación
-          reunimos en un solo lugar la información de los servicios de
-          bienestar, enfermería, biblioteca, cafetería y coordinación
-          académica que acompañan el día a día de aprendices e instructores.
+         El Centro Agroturístico SENA es un espacio de formación que prepara técnicos y tecnólogos en diferentes áreas relacionadas con el sector agropecuario, ambiental y turístico. Su formación combina el aprendizaje en las aulas con actividades prácticas, unidades productivas y experiencias de campo, permitiendo que los aprendices desarrollen conocimientos y habilidades para su vida laboral. Esta aplicación tiene como propósito reunir en un solo lugar la información de los principales servicios que hacen parte de la comunidad educativa. Aquí se puede consultar información sobre Bienestar, Enfermería, Biblioteca, Cafetería y Coordinación Académica, facilitando el acceso a horarios, servicios, información de contacto y otros datos importantes.De esta manera, la aplicación busca brindar una herramienta sencilla, organizada y fácil de utilizar para que aprendices e instructores puedan encontrar rápidamente la información que necesitan durante su día a día en el Centro Agroturístico.
+
         </p>
         <p class="text-body1 q-mb-none">
-          Esta aplicación fue desarrollada como proyecto de formación,
-          buscando facilitar el acceso a horarios, contactos y encargados de
-          cada servicio del centro desde el celular o el computador.
+Esta aplicación fue desarrollada como parte de un proyecto de formación, con el propósito de facilitar el acceso a la información y a los diferentes servicios del Centro Agroturístico SENA. A través de ella, los aprendices e instructores pueden consultar de manera rápida y sencilla los horarios, datos de contacto y responsables de cada área.
+La plataforma puede ser utilizada desde el celular o el computador, permitiendo tener en un solo lugar información sobre servicios como Bienestar, Enfermería, Biblioteca, Cafetería y Coordinación Académica. De esta manera, se busca mejorar la organización y facilitar la consulta de información importante para la comunidad educativa.
+
         </p>
       </q-card-section>
     </q-card>
@@ -61,7 +57,7 @@ import fotoDev from '../assets/img/avatar.jpg'
 const desarrolladora = {
   foto: fotoDev,
   nombre: 'Juan David Castro Rojas',
-  rol: 'Desarrollador Frontend',
+  rol: 'Desarrollador de esta pagina web',
   correo: 'juandavidjr04@gmail.com'
 }
 </script>
